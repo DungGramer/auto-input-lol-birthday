@@ -1,5 +1,5 @@
-# spamMessage
-Spam message using Python
+# auto-input-lol-birthday
+Auto add code in birthday LOL
 
 ## Usage
 Install library before using
